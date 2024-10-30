@@ -1,0 +1,9 @@
+passwd
+node_modules/
+.npm/
+package-lock.json
+dist/
+coverage/
+.terraform/
+.terraform.lock.hcl
+__pycache__/
